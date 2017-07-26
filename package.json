@@ -1,0 +1,25 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "simple nodejs twitter bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laurabzz/nodejs-twitter-bot.git"
+  },
+  "keywords": [
+    "twitter"
+  ],
+  "author": "laura zebrauskaite",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laurabzz/nodejs-twitter-bot/issues"
+  },
+  "homepage": "https://github.com/laurabzz/nodejs-twitter-bot#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
