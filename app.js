@@ -5,6 +5,8 @@ CHANGELOG:
 3. added scheduler task to allow run the both indefinitely on local (2017/08/14)
 */
 
+//to run: in Git Bash type: node app.js
+
 // app.js
 var Twitter = require('twitter');
 var config = require('./config.js');
